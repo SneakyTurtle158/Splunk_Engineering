@@ -1,0 +1,1 @@
+.\PECmd.exe -d C:\Windows\Prefetch -q --csv C:\Windows\Temp

@@ -1,0 +1,1 @@
+Get-WMIObject win32_physicalmedia | Format-List Tag,SerialNumber
