@@ -5,7 +5,7 @@ The following indexes are required:
 - osnixscript  
 
 ## _server_app_appfinder  
-This app is for Windows based systems and uses both prefetch analysis (using PECmd and also captures Hard Drive serial numbers from the system.  
+This app is for Windows based systems and uses both prefetch analysis (using PECmd and also captures Hard Drive serial numbers from the system. If you are running your Splunk Forwarders from a non-standard location, make sure to update the path in the script field for [powershell://run-pecmd]  
 
 ### inputs:
 ```
